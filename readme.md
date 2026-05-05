@@ -2,6 +2,6 @@ A tool that scans the javaw.exe process memory for cheat strings and specific cl
 
 Showcase: https://streamable.com/isduhv
 
-Virus total: https://www.virustotal.com/gui/file/47522bfafdd62158609d7b6a13e7fc01cf063f3c34d9b23365e37e70fefc87d0
+Discord: https://discord.gg/JR4jg4kD
 
-Discord: 0eyp
+Discord: .p1ae
